@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>Background.jpg</Source>
+      <Name>Background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\Background.xnb</Output>
+      <Time>2017-04-18T23:12:17.4605+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Mario.png</Source>
+      <Name>Mario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\Mario.xnb</Output>
+      <Time>2017-04-18T23:16:27.4207277+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Normal.png</Source>
+      <Name>Normal</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\Normal.xnb</Output>
+      <Time>2017-04-28T22:08:16.2648754+04:00</Time>
+    </Item>
+    <Item>
+      <Source>special.png</Source>
+      <Name>special</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\special.xnb</Output>
+      <Time>2017-04-28T22:08:16.2628753+04:00</Time>
+    </Item>
+    <Item>
+      <Source>unnamed.png</Source>
+      <Name>unnamed</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\unnamed.xnb</Output>
+      <Time>2017-05-07T17:58:25.6029884+04:00</Time>
+    </Item>
+    <Item>
+      <Source>bill blaster.png</Source>
+      <Name>bill blaster</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\bill blaster.xnb</Output>
+      <Time>2017-05-02T15:07:19.5161159+04:00</Time>
+    </Item>
+    <Item>
+      <Source>goombas right.png</Source>
+      <Name>goombas right</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\goombas right.xnb</Output>
+      <Time>2017-05-02T15:07:19.5161159+04:00</Time>
+    </Item>
+    <Item>
+      <Source>koopa troopa.png</Source>
+      <Name>koopa troopa</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\koopa troopa.xnb</Output>
+      <Time>2017-05-07T17:03:18.9978614+04:00</Time>
+    </Item>
+    <Item>
+      <Source>piranha sprite.png</Source>
+      <Name>piranha sprite</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\piranha sprite.xnb</Output>
+      <Time>2017-05-02T15:07:19.5941161+04:00</Time>
+    </Item>
+    <Item>
+      <Source>spiny.png</Source>
+      <Name>spiny</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\spiny.xnb</Output>
+      <Time>2017-05-02T15:07:19.5941161+04:00</Time>
+    </Item>
+    <Item>
+      <Source>SmallMario.png</Source>
+      <Name>SmallMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\SmallMario.xnb</Output>
+      <Time>2017-05-07T13:24:41.1875656+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Secrete.png</Source>
+      <Name>Secrete</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\Secrete.xnb</Output>
+      <Time>2017-05-03T22:28:07.9077845+04:00</Time>
+    </Item>
+    <Item>
+      <Source>COIN.png</Source>
+      <Name>COIN</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\COIN.xnb</Output>
+      <Time>2017-05-04T19:43:47.2769816+04:00</Time>
+    </Item>
+    <Item>
+      <Source>fire bullet.png</Source>
+      <Name>fire bullet</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\fire bullet.xnb</Output>
+      <Time>2017-05-04T21:01:21.5121886+04:00</Time>
+    </Item>
+    <Item>
+      <Source>FireMario.png</Source>
+      <Name>FireMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\FireMario.xnb</Output>
+      <Time>2017-05-04T21:01:21.5151888+04:00</Time>
+    </Item>
+    <Item>
+      <Source>InvincibleMario.png</Source>
+      <Name>InvincibleMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\InvincibleMario.xnb</Output>
+      <Time>2017-05-04T21:01:21.5901931+04:00</Time>
+    </Item>
+    <Item>
+      <Source>SuperMario.png</Source>
+      <Name>SuperMario</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\SuperMario.xnb</Output>
+      <Time>2017-05-04T21:01:24.15834+04:00</Time>
+    </Item>
+    <Item>
+      <Source>FireFlower.png</Source>
+      <Name>FireFlower</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\FireFlower.xnb</Output>
+      <Time>2017-05-07T10:51:32.7690181+04:00</Time>
+    </Item>
+    <Item>
+      <Source>play.png</Source>
+      <Name>play</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\play.xnb</Output>
+      <Time>2017-05-07T15:58:57.474995+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Super-star.png</Source>
+      <Name>Super-star</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\Super-star.xnb</Output>
+      <Time>2017-05-07T17:41:41.6305645+04:00</Time>
+    </Item>
+    <Item>
+      <Source>UpMushrom.png</Source>
+      <Name>UpMushrom</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\UpMushrom.xnb</Output>
+      <Time>2017-05-07T17:44:10.1260579+04:00</Time>
+    </Item>
+    <Item>
+      <Source>superm.png</Source>
+      <Name>superm</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\superm.xnb</Output>
+      <Time>2017-05-07T17:48:52.7542233+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Sfont.spritefont</Source>
+      <Name>Sfont</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\Sfont.xnb</Output>
+      <Time>2017-04-19T00:47:37.407283+04:00</Time>
+    </Item>
+    <Item>
+      <Source>Super Mario Bros Theme Song.mp3</Source>
+      <Name>Super Mario Bros Theme Song</Name>
+      <Importer>Mp3Importer</Importer>
+      <Processor>SongProcessor</Processor>
+      <Options>None</Options>
+      <Output>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\Super Mario Bros Theme Song.xnb</Output>
+      <Extra>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\Super Mario Bros Theme Song.wma</Extra>
+      <Time>2017-05-07T13:00:13.0745943+04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{F87AF099-1102-40A2-A52F-8EE41F877D5E}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Release</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>D:\Project\Mario\Super Mario\Super Mario\Super_MarioContent\</RootDirectory>
+      <LoggerRootDirectory>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\</LoggerRootDirectory>
+      <IntermediateDirectory>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\obj\x86\Release\</IntermediateDirectory>
+      <OutputDirectory>D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T17:22:30+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T17:22:30+05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2017-04-12T22:47:24.309143+04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

@@ -1,0 +1,34 @@
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\Background.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\Mario.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\Normal.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\special.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\unnamed.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\bill blaster.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\goombas right.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\koopa troopa.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\piranha sprite.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\spiny.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\SmallMario.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\Secrete.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\COIN.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\fire bullet.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\FireMario.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\InvincibleMario.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\SuperMario.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\FireFlower.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\play.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\Super-star.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\UpMushrom.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\superm.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\Sfont.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\Super Mario Bros Theme Song.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Content\Super Mario Bros Theme Song.wma
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Super_Mario.exe.manifest
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Super_Mario.application
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Super_Mario.exe
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Release\Super_Mario.pdb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\obj\x86\Release\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\obj\x86\Release\Super_Mario.exe.manifest
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\obj\x86\Release\Super_Mario.application
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\obj\x86\Release\Super_Mario.exe
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\obj\x86\Release\Super_Mario.pdb

@@ -1,0 +1,2 @@
+D:\Project\Mario\Super Mario\Super Mario\Super_MarioContent\obj\x86\Debug\Super_MarioContent.contentprojResolveAssemblyReference.cache
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_MarioContent\obj\x86\Debug\Super_MarioContent.contentprojResolveAssemblyReference.cache

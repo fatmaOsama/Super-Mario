@@ -1,0 +1,66 @@
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Super_Mario.exe
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\Background.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\Mario.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\coin.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\Normal.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\special.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\unnamed.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\bill blaster.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\goombas right.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\koopa troopa.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\piranha sprite.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\spiny.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\SmallMario.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\Secrete.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\Sfont.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\obj\x86\Debug\Super_Mario.exe
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\obj\x86\Debug\Super_Mario.pdb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Super_Mario.pdb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\obj\x86\Debug\Super_Mario.csprojResolveAssemblyReference.cache
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\fire bullet.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\FireMario.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\InvincibleMario.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\SuperMario.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\Background.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\Mario.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\Normal.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\special.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\unnamed.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\bill blaster.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\goombas right.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\koopa troopa.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\piranha sprite.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\spiny.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\SmallMario.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\Secrete.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\COIN.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\fire bullet.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\FireMario.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\InvincibleMario.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\SuperMario.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\Sfont.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Super_Mario.exe
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Super_Mario.pdb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\obj\x86\Debug\Super_Mario.exe
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\obj\x86\Debug\Super_Mario.pdb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\FireFlower.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\Super Mario Bros Theme Song.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\Super Mario Bros Theme Song.wma
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\play.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\Super-star.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\UpMushrom.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\bin\x86\Debug\Content\superm.xnb
+D:\Project\Mario\Super Mario - Copy\Super Mario\Super_Mario\obj\x86\Debug\Super_Mario.csprojResolveAssemblyReference.cache
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\FireFlower.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\play.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\Super-star.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\UpMushrom.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\superm.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\Super Mario Bros Theme Song.xnb
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Content\Super Mario Bros Theme Song.wma
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Super_Mario.exe.manifest
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\bin\x86\Debug\Super_Mario.application
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\obj\x86\Debug\Super_Mario.exe.manifest
+D:\Project\Mario\Super Mario\Super Mario\Super_Mario\obj\x86\Debug\Super_Mario.application
